@@ -3,6 +3,10 @@
 ## Overview
 This Jupyter Notebook project is designed to classify articles into two categories: "Human" and "AI." It utilizes machine learning techniques, specifically logistic regression, to classify text data based on its content. The classification model is trained on a dataset containing articles labeled as either 0('Human') or 1('AI').
 
+The dataset used was sourced from Kaggle. You can access it through the following link:
+
+```https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text```
+
 ## Usage
 1. **Clone the repository**: Clone this repository to your local machine.
    
